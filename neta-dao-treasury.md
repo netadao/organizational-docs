@@ -2,7 +2,7 @@
 
 Neta DAO may accept and disburse funds to projects or teams as decided by DAO governance; as such, we need a safeguard from malicious actors. In the interim, we have created a 9-member Multisig with a 6-of-9 passing threshold that will be in charge of making sure the funds are used as the community requests. Furthermore, if the DAO needs to move to a new version of DAO contracts, the treasury can handle it without logistics issues like some of our sister DAOs have seen.
 
-Address:  [LINK](https://daodao.zone/)
+Address: juno10l39ctnue4muf3fh4cmdcyr53c5h23vg6n4dyu0syx3lvkgwhlkqwkm6xz [LINK](https://daodao.zone/dao/juno10l39ctnue4muf3fh4cmdcyr53c5h23vg6n4dyu0syx3lvkgwhlkqwkm6xz)
 
 ## Member Composition
 
